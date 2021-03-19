@@ -2,4 +2,6 @@ Krakowiak Norbert
 nkrakowiak@op.pl
 grupa 1ID21A
 Object CSV Mapper
-J�zyk programowania C#
+Język programowania C#
+
+tworzenie własnych plików CSV i wczytywanie ich do programu za pomocą języka c#
